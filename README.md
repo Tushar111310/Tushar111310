@@ -1,4 +1,7 @@
 
+
+
+
 <h1 align="center">Hi 👋, I'm Tushar Peelwan</h1>
 <h3 align="center">Java Developer | Passionate about problem solving</h3>
 
@@ -38,5 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar111310&show_icons=true&locale=en" alt="tushar111310" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar111310&" alt="tushar111310" /></p>
-
 
